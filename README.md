@@ -27,21 +27,21 @@ Example 1: Run the concert-this command
 node liri.js concert-this <name of artist or band>
 Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-![concert-this](Github/liri-node-app/images/concert-this.png)
+![concert-this](images/concert-this.png)
 
 Example 2: Run the spotify-this-song command
 
 node liri.js spotify-this-song <name of song>
 Output: The system will display a list of information associated with the song. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-![spotify-this-song](Github/liri-node-app/images/spotify-this-song.png)
+![spotify-this-song](images/spotify-this-song.png)
 
 Example 3: Run the movie-this command
 
 node liri.js movie-this <name of movie>
 Output: The system will display information associated with the movie. The system will also log all the results in the log.txt file. See screen-shot below:
 
-![concert-this](Github/liri-node-app/images/movie-this.png)
+![concert-this](images/movie-this.png)
 
 Example 4: Run the do-what-it-says command
 
